@@ -28,7 +28,7 @@ I aim to develop clean and maintainable apps with MVVM architecture and Firebase
 ### 📫 Reach me at:
 
 - E-mail: **burakhancidem@hotmail.com**
-- LinkedIn: [linkedin.com/in/burakhan](https://www.linkedin.com/in/burakhan-%C3%A7idem-7229202a1/)
+- LinkedIn: **[linkedin.com/in/burakhan](https://www.linkedin.com/in/burakhan-%C3%A7idem-7229202a1/)**
 
 ---
 
