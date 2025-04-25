@@ -1,37 +1,38 @@
-<h1 align="center">Merhaba 👋, ben Burakhan</h1>
-<h3 align="center">Android Developer | Kotlin • MVVM • Firebase • UI/UX Meraklısı</h3>
+<h1 align="center">Hi there 👋, I'm Burakhan</h1>
+<h3 align="center">Android Developer | Kotlin • MVVM • Firebase • UI/UX Enthusiast</h3>
 
 ---
 
-🎯 Mobil uygulama geliştirme tutkunu bir Android geliştiricisiyim. Kotlin diliyle profesyonel ve ölçeklenebilir projeler geliştiriyorum. MVVM mimarisi, Firebase entegrasyonu ve temiz kod prensipleriyle yazılmış uygulamalar üretmeye odaklıyım.
+🎯 I'm a passionate Android developer focused on building professional and scalable mobile applications using Kotlin.  
+I aim to develop clean and maintainable apps with MVVM architecture and Firebase integration.
 
 ---
 
-### 🚀 Şu anda aktif olarak çalıştığım alanlar:
+### 🚀 What I'm currently working with:
 
 - ✅ Android App Development (Kotlin)
 - ✅ MVVM Architecture, ViewModel, LiveData
 - ✅ Firebase (Realtime DB, Authentication)
-- ✅ UI/UX ve responsive Android tasarımları
+- ✅ UI/UX and responsive Android designs
 
 ---
 
-### 🧠 Şu anda öğreniyorum:
+### 🧠 Currently learning:
 
 - 📱 Jetpack Compose
 - 🧩 Dependency Injection (Hilt, Dagger)
-- 🌐 REST API entegrasyonu
+- 🌐 REST API integration
 
 ---
 
-### 📫 Bana ulaş:
+### 📫 Reach me at:
 
 - E-mail: **burakhancidem@hotmail.com**
 - LinkedIn: [linkedin.com/in/burakhan](https://www.linkedin.com/in/burakhan-%C3%A7idem-7229202a1/)
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar:
+### 🛠️ Technologies & Tools:
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -41,6 +42,6 @@
 
 ---
 
-### 📈 GitHub İstatistikleri:
+### 📈 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brkcidem&show_icons=true&theme=radical)
